@@ -60,10 +60,7 @@
   <code><img width="5%" title="Jira" src="images/logo_stacks/jira.png"></code>
   <code><img width="5%" title="Confluence" src="images/logo_stacks/confluence.png"></code>
   <code><img width="5%" title="Android Studio" src="images/logo_stacks/android_studio.png"></code>
-  <code><img width="5%" title="Xcode" src="images/logo_stacks/xcode.png"></code>
-  <code><img width="5%" title="Postman" src="images/logo_stacks/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/logo_stacks/tg.png"></code>
-  <code><img width="5%" title="Slack" src="images/logo_stacks/slack.png"></code>
   <code><img width="5%" title="PgAdmin" src="images/logo_stacks/pgadmin.png"></code>
   <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code>
 </p>
