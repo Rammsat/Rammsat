@@ -9,8 +9,6 @@
 
 ## :technologist:About me
 - I'm manual and automation Engineer from Cherepovets.
-- I work QA about 5 years.
-- I write autotests in Python
 - Contacts:
 
 <p>
