@@ -73,7 +73,7 @@
 
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Rammsat)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Rammsat/github_web)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
