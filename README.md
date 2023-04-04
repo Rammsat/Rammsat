@@ -68,15 +68,15 @@
 
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Rammsat/github_web)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [WEB](https://github.com/Rammsat/github_web)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Rammsat/reqres_api)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API](https://github.com/Rammsat/reqres_api)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/Rammsat/wiki_mobile)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [MOBILE](https://github.com/Rammsat/wiki_mobile)
 
 
 <!--Git Stats-->
